@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "firstName": "Andrew",
+        "lastName": "Alex",
+        "emailId": "chinna.vmm@gmal.com",
+        "age": 30,
+        "phone": 888832888
+    },
+    {
+        "id": 2,
+        "firstName": "Murali",
+        "lastName": "mura",
+        "emailId": "manoharmuralih7@gmail.com",
+        "age": 20,
+        "phone": 888823588
+    },
+    {
+        "id": 3,
+        "firstName": "Manohar",
+        "lastName": "mano",
+        "emailId": "manoharmurali872@gmail.com",
+        "age": 20,
+        "phone": 888865388
+    },
+    {
+        "id": 4,
+        "firstName": "Joshi",
+        "lastName": "john",
+        "emailId": "chinna.vmm@gmail.com",
+        "age": 40,
+        "phone": 8555288888
+    },
+    {
+        "id": 5,
+        "firstName": "Hello",
+        "lastName": "Hi",
+        "emailId": "manoharmurali987@gmail.com",
+        "age": 50,
+        "phone": 888854888
+    }
+]
